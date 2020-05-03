@@ -23,7 +23,7 @@ License
 
     Copyright 2020 Pedro Vicente Gómez Sánchez
 
-    Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+    All the files in this repository are Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
     You may obtain a copy of the License at
 
        https://creativecommons.org/licenses/by-nc/4.0/
