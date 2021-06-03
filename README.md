@@ -5,6 +5,10 @@ There is more than coding in real life :scream:
 
 Inside this repository you'll find all the source files, brushes, configs and renders I use in my digital drawing projects :smiley:
 
+This is just an example 👇
+
+<img alt="LDR" src="Practice/Renders/MrsLove.png" height="600" width="600"/>
+
 Crafterd By
 ------------
 
